@@ -3,7 +3,7 @@ upload files to a Azure Storage
 
 To upload files to Azure Storage install the library via terminal:
 
-`pip install azure storage blob`
+`pip install azure-storage-blob`
 
 
 ```python
